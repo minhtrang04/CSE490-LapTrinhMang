@@ -1,0 +1,7 @@
+C:\Users\Admin\Downloads\LTM\TH\ClientUDP\ServerUDP\bin\Debug\ServerUDP.exe.config
+C:\Users\Admin\Downloads\LTM\TH\ClientUDP\ServerUDP\bin\Debug\ServerUDP.exe
+C:\Users\Admin\Downloads\LTM\TH\ClientUDP\ServerUDP\bin\Debug\ServerUDP.pdb
+C:\Users\Admin\Downloads\LTM\TH\ClientUDP\ServerUDP\obj\Debug\ServerUDP.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\LTM\TH\ClientUDP\ServerUDP\obj\Debug\ServerUDP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\LTM\TH\ClientUDP\ServerUDP\obj\Debug\ServerUDP.exe
+C:\Users\Admin\Downloads\LTM\TH\ClientUDP\ServerUDP\obj\Debug\ServerUDP.pdb
