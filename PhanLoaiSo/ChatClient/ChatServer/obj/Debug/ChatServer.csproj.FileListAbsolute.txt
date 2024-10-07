@@ -1,0 +1,6 @@
+C:\Users\Admin\Downloads\LTM\TH\PhanLoaiSo\ChatClient\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\LTM\TH\PhanLoaiSo\ChatClient\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Admin\Downloads\LTM\TH\PhanLoaiSo\ChatClient\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Admin\Downloads\LTM\TH\PhanLoaiSo\ChatClient\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Admin\Downloads\LTM\TH\PhanLoaiSo\ChatClient\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Admin\Downloads\LTM\TH\PhanLoaiSo\ChatClient\ChatServer\obj\Debug\ChatServer.pdb

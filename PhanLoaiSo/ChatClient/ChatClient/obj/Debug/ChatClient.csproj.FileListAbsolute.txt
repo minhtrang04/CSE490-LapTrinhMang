@@ -1,0 +1,7 @@
+C:\Users\Admin\Downloads\LTM\TH\PhanLoaiSo\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Admin\Downloads\LTM\TH\PhanLoaiSo\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Admin\Downloads\LTM\TH\PhanLoaiSo\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Admin\Downloads\LTM\TH\PhanLoaiSo\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\LTM\TH\PhanLoaiSo\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\LTM\TH\PhanLoaiSo\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Admin\Downloads\LTM\TH\PhanLoaiSo\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
